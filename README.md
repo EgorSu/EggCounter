@@ -1,5 +1,5 @@
 # EggCounter
-## About project.
+## About the project.
 The algorithm is implemented for counting eggs on a conveyor In this project.
 Steps implemented in this algorithm:
 - remove the background of the image
